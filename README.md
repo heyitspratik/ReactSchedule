@@ -22,7 +22,7 @@ You will also see any lint errors in the console.
 ![image1](https://user-images.githubusercontent.com/62649065/109518397-37082900-7ad0-11eb-8a65-aaafc2fdb7cf.PNG)
 
 
-# React Schedule
+# Author
 [Pratik Ahir](https://www.github.com/heyitspratik)
 
 
